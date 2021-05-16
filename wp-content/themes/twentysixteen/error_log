@@ -1,0 +1,16 @@
+[17-Apr-2019 00:09:46 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[18-Apr-2019 10:50:27 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-May-2019 21:52:15 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 18:05:10 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 01:37:22 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 13:11:56 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 03:03:30 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 00:48:12 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/greaphgt/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[20-Oct-2019 07:59:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/britoeqa/greatdivinegift.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/themes/twentysixteen/404.php on line 10
+[27-Dec-2020 06:53:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/britoeqa/greatdivinegift.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/themes/twentysixteen/404.php on line 10

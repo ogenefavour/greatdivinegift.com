@@ -1,0 +1,13 @@
+
+#errorDocument 400 http://www.youwebsite.com/404.php
+#errorDocument 404 404.php
+
+#Header set content-Security-Policy: upgrade-insecure-requests
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+RewriteBase /echecker/
+
+RewriteRule ^home/?$ index.php [NC,QSA,L]
+RewriteRule ^result_sheet/?$ result_sheet.php [NC,QSA,L]
+
+#DirectoryIndex index.html index.php index.htm parking-page.html

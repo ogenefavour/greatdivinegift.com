@@ -1,0 +1,21 @@
+[17-Sep-2019 14:38:16 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/greaphgt/public_html/wp-content/plugins/hello.php on line 59
+[09-Dec-2019 03:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php on line 59
+[09-Dec-2019 03:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php on line 59
+[09-Dec-2019 03:29:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php on line 59
+[20-Jul-2020 07:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php on line 59
+[29-Nov-2020 17:17:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-content/plugins/hello.php on line 59

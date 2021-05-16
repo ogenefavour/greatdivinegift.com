@@ -1,0 +1,37 @@
+
+#errorDocument 400 http://www.youwebsite.com/404.php
+#errorDocument 404 404.php
+
+#Header set content-Security-Policy: upgrade-insecure-requests
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+RewriteBase /gdgadmin
+
+RewriteRule ^dashboard/?$ index.php [NC,QSA,L]
+RewriteRule ^register-student/?$ add_new_student.php [NC,QSA,L]
+RewriteRule ^register-student-excel/?$ add_new_student_excel.php [NC,QSA,L]
+RewriteRule ^result-form-excel/?$ result_form_excel.php [NC,QSA,L]
+RewriteRule ^view-students/?$ view_students.php [NC,QSA,L]
+RewriteRule ^add-events/?$ schedule_events.php [NC,QSA,L]
+RewriteRule ^view-staffs/?$ view_staffs.php [NC,QSA,L]
+RewriteRule ^add-staffs/?$ add_staffs.php [NC,QSA,L]
+RewriteRule ^upload-results/?$ upload_result.php [NC,QSA,L]
+RewriteRule ^uploaded-results/?$ uploaded_results.php [NC,QSA,L]
+RewriteRule ^check-result/?$ check_results.php [NC,QSA,L]
+RewriteRule ^update-faq/?$ add_faq.php [NC,QSA,L]
+RewriteRule ^result-statistics/?$ result_statistics.php [NC,QSA,L]
+RewriteRule ^school-inbox/?$ inbox.php [NC,QSA,L]
+RewriteRule ^parents_info/?$ add_parents_info.php [NC,QSA,L]
+RewriteRule ^send-notification/?$ outbox.php [NC,QSA,L]
+RewriteRule ^contact-administrator/?$ contact_super_admin.php [NC,QSA,L]
+RewriteRule ^update-faq/?$ add_faq.php [NC,QSA,L]
+RewriteRule ^news-headline/?$ news_headline.php [NC,QSA,L]
+RewriteRule ^scratch-card/?$ request_pin.php [NC,QSA,L]
+RewriteRule ^result-sheet/?$ result_sheet.php [NC,QSA,L]
+RewriteRule ^biodata/?$ biodata.php [NC,QSA,L]
+RewriteRule ^masterlist/?$ masterlist.php [NC,QSA,L]
+RewriteRule ^admin-login/?$ login.php [NC,QSA,L]
+RewriteRule ^login-setup/?$ login_setup.php [NC,QSA,L]
+RewriteRule ^sign-out/?$ signout.php [NC,QSA,L]
+RewriteRule ^register/([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+(\.)[a-zA-Z]+) register.php?awp_referer=$1
+#DirectoryIndex index.html index.php index.htm parking-page.html

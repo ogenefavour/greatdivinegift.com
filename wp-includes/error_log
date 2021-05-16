@@ -1,0 +1,41 @@
+[25-Apr-2019 10:45:33 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/greaphgt/public_html/wp-includes/locale.php on line 10
+[14-Apr-2020 23:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/britoeqa/greatdivinegift.com/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/locale.php on line 10
+[17-Apr-2020 01:12:38 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/britoeqa/greatdivinegift.com/wp-includes/class-walker-nav-menu.php on line 17
+[31-Jul-2020 02:10:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 02:10:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 02:11:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 06:12:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 08:21:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[31-Jul-2020 08:21:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[02-Sep-2020 15:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/feed-atom-comments.php on line 8
+[03-Sep-2020 15:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_main_site() in /home/britoeqa/greatdivinegift.com/wp-includes/update.php:739
+Stack trace:
+#0 {main}
+  thrown in /home/britoeqa/greatdivinegift.com/wp-includes/update.php on line 739
+[04-Sep-2020 01:05:07 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/britoeqa/greatdivinegift.com/wp-includes/class-wp-xmlrpc-server.php on line 23
+[15-Apr-2021 23:21:25 America/New_York] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/britoeqa/greatdivinegift.com/wp-includes/locale.php on line 10
+[20-Apr-2021 02:31:21 America/New_York] PHP Fatal error:  Class 'Walker' not found in /home/britoeqa/greatdivinegift.com/wp-includes/class-walker-nav-menu.php on line 17

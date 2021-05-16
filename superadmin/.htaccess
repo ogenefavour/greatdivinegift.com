@@ -1,0 +1,23 @@
+#errorDocument 400 http://www.youwebsite.com/404.php
+#errorDocument 404 404.php
+
+#Header set content-Security-Policy: upgrade-insecure-requests
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+RewriteBase /superadmin/
+
+RewriteRule ^dashboard/?$ index.php [NC,QSA,L]
+RewriteRule ^login/?$ login.php [NC,QSA,L]
+RewriteRule ^send-notifications/?$ send_notification.php [NC,QSA,L]
+RewriteRule ^schools/?$ view_schools.php [NC,QSA,L]
+RewriteRule ^pin-requests/?$ view_pin_requests.php [NC,QSA,L]
+RewriteRule ^inbox/?$ inbox.php [NC,QSA,L]
+RewriteRule ^generate-pin/?$ generate_pin.php [NC,QSA,L]
+RewriteRule ^general-stats/?$ general_statistics.php [NC,QSA,L]
+RewriteRule ^integration-requests/?$ integration_requests.php [NC,QSA,L]
+RewriteRule ^school_registration/?$ register_school.php [NC,QSA,L]
+RewriteRule ^school-setup/?$ school_setup.php [NC,QSA,L]
+RewriteRule ^schooladmin-accounts/?$ school_admin_accounts.php [NC,QSA,L]
+RewriteRule ^sign-out/?$ signout.php [NC,QSA,L]
+RewriteRule ^register/([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+(\.)[a-zA-Z]+) register.php?awp_referer=$1
+#DirectoryIndex index.html index.php index.htm parking-page.html

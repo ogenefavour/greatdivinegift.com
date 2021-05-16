@@ -1,0 +1,141 @@
+[19-Nov-2018 18:05:33 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/greaphgt/public_html/admin/includes/config.php on line 10
+[19-Nov-2018 18:06:02 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/greaphgt/public_html/admin/includes/config.php on line 10
+[20-Nov-2018 13:12:23 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[20-Nov-2018 13:12:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[20-Nov-2018 13:12:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 13:12:23 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 13:45:08 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[20-Nov-2018 13:45:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[20-Nov-2018 13:45:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 13:45:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 14:01:31 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[20-Nov-2018 14:01:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[20-Nov-2018 14:01:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 14:01:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 14:01:46 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[20-Nov-2018 14:01:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[20-Nov-2018 14:01:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[20-Nov-2018 14:01:46 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[21-Nov-2018 02:31:47 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[21-Nov-2018 02:31:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[21-Nov-2018 02:31:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[21-Nov-2018 02:31:47 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[25-Nov-2018 15:26:16 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[25-Nov-2018 15:29:37 America/New_York] PHP Warning:  require(../../files/classes.php): failed to open stream: No such file or directory in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:29:37 America/New_York] PHP Warning:  require(../../files/classes.php): failed to open stream: No such file or directory in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:29:37 America/New_York] PHP Fatal error:  require(): Failed opening required '../../files/classes.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:29:44 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[25-Nov-2018 15:29:44 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[25-Nov-2018 15:29:48 America/New_York] PHP Warning:  require(../../files/classes.php): failed to open stream: No such file or directory in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:29:48 America/New_York] PHP Warning:  require(../../files/classes.php): failed to open stream: No such file or directory in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:29:48 America/New_York] PHP Fatal error:  require(): Failed opening required '../../files/classes.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:30:45 America/New_York] PHP Warning:  require(../../files/classes.php): failed to open stream: No such file or directory in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:30:45 America/New_York] PHP Warning:  require(../../files/classes.php): failed to open stream: No such file or directory in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:30:45 America/New_York] PHP Fatal error:  require(): Failed opening required '../../files/classes.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 3
+[25-Nov-2018 15:35:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 408
+[27-Nov-2018 06:44:41 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[27-Nov-2018 06:44:41 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[27-Nov-2018 07:37:29 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[27-Nov-2018 07:37:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[27-Nov-2018 07:37:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[27-Nov-2018 07:37:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[28-Nov-2018 02:16:02 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 02:16:02 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 08:46:52 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 08:46:52 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 08:48:19 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[28-Nov-2018 08:48:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[28-Nov-2018 08:48:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[28-Nov-2018 08:48:19 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 396
+[28-Nov-2018 09:58:01 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 09:58:01 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 10:07:04 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[28-Nov-2018 10:07:04 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[01-Dec-2018 04:21:29 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[01-Dec-2018 04:21:29 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[01-Dec-2018 04:21:30 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[01-Dec-2018 04:21:30 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[01-Dec-2018 04:21:35 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[01-Dec-2018 05:14:39 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[05-Dec-2018 03:13:52 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 94
+[05-Dec-2018 03:13:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 130
+[05-Dec-2018 03:13:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 481
+[05-Dec-2018 03:13:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 481
+[07-Dec-2018 16:50:19 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[07-Dec-2018 16:50:19 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[09-Dec-2018 04:53:14 America/New_York] PHP Warning:  Division by zero in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 93
+[09-Dec-2018 04:53:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 132
+[09-Dec-2018 04:53:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 486
+[09-Dec-2018 04:53:14 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 486
+[09-Dec-2018 05:08:33 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 93
+[09-Dec-2018 05:08:35 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 93
+[09-Dec-2018 05:08:37 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 93
+[09-Dec-2018 05:08:38 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 93
+[09-Dec-2018 06:43:56 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[09-Dec-2018 06:46:36 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[09-Dec-2018 06:50:40 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[09-Dec-2018 07:06:25 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[09-Dec-2018 07:07:53 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[09-Dec-2018 21:02:15 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[09-Dec-2018 21:02:15 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[12-Dec-2018 02:58:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greaphgt/public_html/gdgadmin/admin_ajax.php on line 482
+[12-Dec-2018 02:59:12 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greaphgt/public_html/gdgadmin/admin_ajax.php on line 482
+[12-Dec-2018 03:15:17 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greaphgt/public_html/gdgadmin/admin_ajax.php on line 486
+[12-Dec-2018 03:15:56 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greaphgt/public_html/gdgadmin/admin_ajax.php on line 486
+[13-Dec-2018 02:09:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 139
+[13-Dec-2018 02:09:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 518
+[13-Dec-2018 02:09:44 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 518
+[13-Dec-2018 08:45:24 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 08:45:24 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 20:32:15 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 20:32:15 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 20:33:01 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 20:33:01 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 20:33:23 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[13-Dec-2018 20:33:23 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 04:51:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/result_sheet.php on line 140
+[24-Dec-2018 04:51:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 476
+[24-Dec-2018 04:51:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/greaphgt/public_html/gdgadmin/includes/classes.php on line 476
+[24-Dec-2018 05:42:00 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[24-Dec-2018 05:42:17 America/New_York] PHP Fatal error:  Call to undefined method Admin::getTotalStudent4_8() in /home/greaphgt/public_html/gdgadmin/rightside.php on line 44
+[24-Dec-2018 05:43:58 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:43:58 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:47:59 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:47:59 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:48:45 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:48:45 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:49:01 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:49:01 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:49:03 America/New_York] PHP Notice:  Undefined variable: schooladmin in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[24-Dec-2018 05:49:03 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[29-Dec-2018 03:41:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greaphgt/public_html/gdgadmin/adminheader.php:225) in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 32
+[29-Dec-2018 03:41:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/greaphgt/public_html/gdgadmin/adminheader.php:225) in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 33
+[29-Dec-2018 04:32:18 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[29-Dec-2018 04:34:18 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[29-Dec-2018 04:38:52 America/New_York] PHP Fatal error:  Call to a member function getTotalStudent() on null in /home/greaphgt/public_html/gdgadmin/rightside.php on line 39
+[29-Dec-2018 23:54:51 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 15
+[29-Dec-2018 23:54:56 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 15
+[29-Dec-2018 23:54:57 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 15
+[29-Dec-2018 23:57:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 273
+[29-Dec-2018 23:57:53 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/greaphgt/public_html/gdgadmin/add_new_student_excel.php on line 273
+[20-Feb-2019 06:13:48 America/New_York] PHP Warning:  require(../files/dbconfig.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/index.php on line 3
+[20-Feb-2019 06:13:48 America/New_York] PHP Warning:  require(../files/dbconfig.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/index.php on line 3
+[20-Feb-2019 06:13:48 America/New_York] PHP Fatal error:  require(): Failed opening required '../files/dbconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/index.php on line 3
+[20-Feb-2019 06:17:08 America/New_York] PHP Warning:  require(../files/dbconfig.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/index.php on line 3
+[20-Feb-2019 06:17:08 America/New_York] PHP Warning:  require(../files/dbconfig.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/index.php on line 3
+[20-Feb-2019 06:17:08 America/New_York] PHP Fatal error:  require(): Failed opening required '../files/dbconfig.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/index.php on line 3
+[20-Feb-2019 06:37:23 America/New_York] PHP Warning:  include_once(../files/config.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[20-Feb-2019 06:37:23 America/New_York] PHP Warning:  include_once(): Failed opening '../files/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[20-Feb-2019 06:38:00 America/New_York] PHP Warning:  include_once(../files/config.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[20-Feb-2019 06:38:00 America/New_York] PHP Warning:  include_once(): Failed opening '../files/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[26-Feb-2019 10:29:38 America/New_York] PHP Warning:  include_once(../files/config.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[26-Feb-2019 10:29:38 America/New_York] PHP Warning:  include_once(): Failed opening '../files/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[26-Feb-2019 10:30:05 America/New_York] PHP Warning:  include_once(../files/config.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[26-Feb-2019 10:30:05 America/New_York] PHP Warning:  include_once(): Failed opening '../files/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[26-Feb-2019 10:30:05 America/New_York] PHP Notice:  Undefined variable: conn in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 8
+[26-Feb-2019 10:30:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 8
+[26-Feb-2019 10:30:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 9
+[26-Feb-2019 10:30:05 America/New_York] PHP Notice:  Undefined variable: schoolid in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 12
+[26-Feb-2019 10:30:05 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 13
+[26-Feb-2019 10:30:18 America/New_York] PHP Warning:  include_once(../files/config.php): failed to open stream: No such file or directory in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3
+[26-Feb-2019 10:30:18 America/New_York] PHP Warning:  include_once(): Failed opening '../files/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/greaphgt/gdgadmin.greatdivinegift.com/login.php on line 3

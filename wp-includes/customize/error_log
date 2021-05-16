@@ -1,0 +1,5 @@
+[31-Jul-2020 15:16:01 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/britoeqa/greatdivinegift.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Jul-2020 16:12:58 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/britoeqa/greatdivinegift.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Jul-2020 17:21:15 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/britoeqa/greatdivinegift.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[01-Aug-2020 09:12:58 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/britoeqa/greatdivinegift.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 09:13:11 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/britoeqa/greatdivinegift.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
